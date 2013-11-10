@@ -1,4 +1,4 @@
-(ns hive-csv.hive
+(ns hive-msgpack.hive
   (:require [clojure.java.jdbc :as j]))
 
 (defn execute-query
